@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VraneskoApp", "VraneskoApp\VraneskoApp.csproj", "{232B9401-9C11-42B9-A3A9-D66467673CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VraneskoLib", "VraneskoLib\VraneskoLib.csproj", "{EAC5C2BB-7A76-4750-B1A7-657CCD58833B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VraneskoTest", "VraneskoTest\VraneskoTest.csproj", "{F944EA58-36D6-469D-A150-C055FBBEBA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232B9401-9C11-42B9-A3A9-D66467673CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232B9401-9C11-42B9-A3A9-D66467673CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232B9401-9C11-42B9-A3A9-D66467673CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232B9401-9C11-42B9-A3A9-D66467673CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC5C2BB-7A76-4750-B1A7-657CCD58833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC5C2BB-7A76-4750-B1A7-657CCD58833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC5C2BB-7A76-4750-B1A7-657CCD58833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC5C2BB-7A76-4750-B1A7-657CCD58833B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F944EA58-36D6-469D-A150-C055FBBEBA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F944EA58-36D6-469D-A150-C055FBBEBA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F944EA58-36D6-469D-A150-C055FBBEBA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F944EA58-36D6-469D-A150-C055FBBEBA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
